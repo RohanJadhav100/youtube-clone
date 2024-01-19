@@ -1,0 +1,12 @@
+svg {
+  height: 20px;
+  display: block;
+}
+.searchForm {
+  display: flex;
+  justify-content: center;
+}
+
+.searchForm input {
+  padding: 6px 30px 6px 8px;
+}
