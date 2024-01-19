@@ -6,7 +6,9 @@ StriveStream is a YouTube clone that aims to provide users with a familiar and s
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/RohanJadhav100/youtube-clone/assets/135609778/64752a59-3ee8-432b-8fe2-275beccf58f2)
+![image](https://github.com/RohanJadhav100/youtube-clone/assets/135609778/4bf19746-b6bd-4484-ad2a-b0074199e029)
+
 
 
 ## Features
